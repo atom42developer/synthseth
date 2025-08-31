@@ -1,0 +1,7 @@
+{
+  "name": "Synth sETH",
+  "symbol": "sETH",
+  "decimals": 18,
+  "description": "Synthetic ETH token backed by Uniswap ETH/USDT pool",
+  "image": "https://github.com/atom42developer/synthseth/blob/main/synthseth.png?raw=true"
+}
